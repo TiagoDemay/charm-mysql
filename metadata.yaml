@@ -10,9 +10,7 @@ tags:
     - databases
     - openstack
 series:
-  - xenial
   - bionic
-  - trusty
 provides:
   db:
     interface: mysql
